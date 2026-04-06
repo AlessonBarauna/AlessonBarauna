@@ -1,4 +1,4 @@
-# 👋 Fala, eu sou o Alesson Rodrigues
+# 👋 Fala, eu sou o Alesson Barauna Rodrigues
 
 🚀 Desenvolvedor Backend .NET
 💼 Experiência com sistemas reais (Itaú, chatbots, integrações)
@@ -53,8 +53,8 @@ Sistema de gerenciamento de tarefas com backend estruturado e front simples.
 
 ## 📫 Contato
 
-* 💼 LinkedIn: (coloca aqui)
-* 📧 Email: (opcional)
+* 💼 LinkedIn:https://www.linkedin.com/in/alesson-barauna-3a0a7719b/
+* 📧 Email: alesson.barauna1@gmail.com
 
 ---
 

@@ -29,17 +29,53 @@ Tenho forte atuação em:
 
 ## 🚀 Projetos em destaque
 
-### 🔹 Financial API
+# 🎓 DevAcademy
 
-API simulando operações bancárias com autenticação JWT, controle de transações e persistência em banco.
+## 📌 Sobre
+Plataforma de ensino para desenvolvedores, com foco em organização de cursos, progresso do aluno e gestão de conteúdo.
 
-### 🔹 Chatbot Engine
+## ⚙️ Tecnologias
+- .NET (C#)
+- SQL Server
+- Angular
 
-Sistema de chatbot com fluxo dinâmico, integração com APIs externas e processamento de dados.
+## 🚀 Funcionalidades
+- Cadastro e autenticação de usuários
+- Organização de cursos e módulos
+- Controle de progresso do aluno
 
-### 🔹 SaaS Task Manager
+## 🧠 Aprendizados
+- Estruturação de sistemas escaláveis
+- Organização de domínio
+- Integração frontend + backend
 
-Sistema de gerenciamento de tarefas com backend estruturado e front simples.
+# 📊 Job Radar
+
+## 📌 Sobre
+Sistema para monitoramento e análise de vagas de emprego, permitindo acompanhar oportunidades e tendências.
+
+## 🚀 Funcionalidades
+- Listagem de vagas
+- Filtros personalizados
+- Organização de oportunidades
+
+## 🧠 Aprendizados
+- Consumo de APIs externas
+- Manipulação de dados
+
+# 🤖 biblIA
+
+## 📌 Sobre
+Aplicação com inteligência artificial para interação e consulta de conteúdos, simulando um assistente conversacional.
+
+## 🚀 Funcionalidades
+- Chat interativo
+- Processamento de perguntas
+- Respostas dinâmicas
+
+## 🧠 Aprendizados
+- Integração com IA
+- Processamento de linguagem
 
 ---
 
